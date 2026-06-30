@@ -1,0 +1,22 @@
+# Node.js / Vite
+node_modules/
+dist/
+.env
+.env.*.local
+.DS_Store
+
+.vscode
+
+# Python / Flask
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.venv/
+
+# SQLite Database
+backend/instance/
+*.sqlite3
+*.db
